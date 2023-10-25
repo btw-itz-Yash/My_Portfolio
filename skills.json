@@ -17,7 +17,7 @@
     },
     {
         "name": "PHP",
-        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+        "icon": "./assets/images/skills/PHP.png"
     },
     {
         "name": "MySQL",
@@ -39,10 +39,10 @@
         "name": "Git VCS",
         "icon": "https://img.icons8.com/color/48/000000/git.png"
     },
-    {
-        "name": "TailwindCSS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
-    },
+    // {
+    //     "name": "TailwindCSS",
+    //     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+    // },
     {
         "name": "Bootstrap",
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
